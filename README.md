@@ -1,28 +1,12 @@
 # RocketMQ-Client-CPP-M1
 
-Made some fine-tuning based on RocketMQ-Client-CPP to adapt to the apple m1 chip. 
+Made some fine-tuning based on [RocketMQ-Client-CPP](https://github.com/apache/rocketmq-client-cpp) to adapt to the apple m1 chip. 
 
 **I'm very lazy, not fully tested, use with caution!**
 
 And thank https://github.com/yg0x01/rocketmq-client-cpp
 
-
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![TravisCI](https://travis-ci.org/apache/rocketmq-client-cpp.svg)](https://travis-ci.org/apache/rocketmq-client-cpp)
-[![CodeCov](https://codecov.io/gh/apache/rocketmq-client-cpp/branch/master/graph/badge.svg)](https://codecov.io/gh/apache/rocketmq-client-cpp)
-[![GitHub release](https://img.shields.io/badge/release-download-default.svg)](https://github.com/apache/rocketmq-client-cpp/releases)
-![Twitter Follow](https://img.shields.io/twitter/follow/ApacheRocketMQ?style=social)
-
-RocketMQ-Client-CPP is the C/C++ client of Apache RocketMQ, a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
-
-## Features
-
-- produce messages, including normal and delayed messages, synchronously or asynchronously. 
-- consume messages, in cluster or broadcast model, concurrently or orderly
-- c and c++ style API.
-- cross-platform, all features are supported on Windows, Linux and Mac OS.
-- automatically rebalanced, both in producing and consuming process.
-- reliability, any downtime broker or name server has no impact on the client.
+本项目为基于RocketMQ-Client-CPP魔改的支持apple m1的版本，非官方版本，未做全面测试，请小心使用！
 
 ## Build and Install
 
