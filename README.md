@@ -6,7 +6,7 @@ Made some fine-tuning based on [RocketMQ-Client-CPP](https://github.com/apache/r
 
 And thank https://github.com/yg0x01/rocketmq-client-cpp
 
-本项目为基于RocketMQ-Client-CPP魔改的支持apple m1的版本，非官方版本，未做全面测试，请小心使用！
+本项目为基于RocketMQ-Client-CPP魔改的支持apple silicon的版本，非官方版本，未做全面测试，请小心使用！
 
 ## Build and Install
 
