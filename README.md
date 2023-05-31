@@ -1,6 +1,6 @@
-# RocketMQ-Client-CPP-M1
+# RocketMQ-Client-CPP-APPLE-SILICON
 
-Made some fine-tuning based on [RocketMQ-Client-CPP](https://github.com/apache/rocketmq-client-cpp) to adapt to the apple m1 chip. 
+Made some fine-tuning based on [RocketMQ-Client-CPP](https://github.com/apache/rocketmq-client-cpp) to adapt to the apple silicon chip. 
 
 **I'm very lazy, not fully tested, use with caution!**
 
